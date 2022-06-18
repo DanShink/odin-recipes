@@ -1,0 +1,44 @@
+* {
+    background-color: #34113F;
+    color: #46c0e6;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #165f11;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+h2{
+    text-align: center;
+    font-size: 48px;
+}
+
+p{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    font-size: 24px;
+}
+
+h3{
+    text-align: center;
+    font-size: 32px;
+}
+ol{
+    text-align: center;
+    font-size: 24px;
+}
+
+a:visited{
+    color:rgb(80, 202, 233);
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
