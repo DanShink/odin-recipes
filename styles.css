@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Verdana, "Times New Roman";
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(86, 176, 255);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(86, 176, 255);
+}
+
+ul {
+    background-color: aqua;
+}
+
+.recipe-names {
+    background-color: aqua;
+}
