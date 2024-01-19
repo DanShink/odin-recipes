@@ -2,20 +2,49 @@
     font-family: Arial, Verdana, "Times New Roman";
 }
 
-h1 {
+.title {
+    width: 400px;
     text-align: center;
     background-color: rgb(86, 176, 255);
+    margin: 8px auto;
+}
+
+.recipe-names {
+    background-color: white;
+    margin-top: 2px auto;
+    text-align: center;
+}
+
+.recipe {
+    background-color: aqua;
+    margin: 8px 800px;
+    padding: 8px;
+}
+
+.ingredient-container {
+    text-align: center;
+}
+
+#description-text {
+    margin: 8px 400px;
+}
+
+.ingredient-container ul {
+    display: inline-block;
+    text-align: left;
 }
 
 h2 {
     text-align: center;
     background-color: rgb(86, 176, 255);
+    width: 200px;
+    text-align: center;
+    margin: 8px auto;
 }
 
-ul {
-    background-color: aqua;
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
-.recipe-names {
-    background-color: aqua;
-}
