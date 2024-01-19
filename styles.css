@@ -9,16 +9,10 @@
     margin: 8px auto;
 }
 
-.recipe-names {
-    background-color: white;
-    margin-top: 2px auto;
+.recipe-names ul{
+    list-style-type: none;
     text-align: center;
-}
-
-.recipe {
     background-color: aqua;
-    margin: 8px 800px;
-    padding: 8px;
 }
 
 .ingredient-container {
